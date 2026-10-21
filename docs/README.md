@@ -11,6 +11,7 @@
 | [decisions/](decisions/) | Решения (ADR): что выбрали и почему |
 | [setup.md](setup.md) | Запуск и разработка |
 | [deploy.md](deploy.md) | Деплой |
+| [legal.md](legal.md) | Юридическая модель и юрисдикция |
 | [roadmap.md](roadmap.md) | Роадмап |
 | [glossary.md](glossary.md) | Глоссарий |
 | [api.md](api.md) | API и модель данных |
