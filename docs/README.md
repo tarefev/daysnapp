@@ -7,6 +7,14 @@
 | [tasks/](tasks/) | Описания задач, один файл на issue |
 | [modules/](modules/) | Описание отдельных модулей |
 | [bugs/](bugs/) | Баги: симптомы, причина, фикс |
+| [decisions/](decisions/) | Решения (ADR): что выбрали и почему |
+| [setup.md](setup.md) | Запуск и разработка |
+| [deploy.md](deploy.md) | Деплой |
+| [roadmap.md](roadmap.md) | Роадмап |
+| [glossary.md](glossary.md) | Глоссарий |
+| [api.md](api.md) | API и модель данных |
+
+В корне репо лежат ещё [CHANGELOG.md](../CHANGELOG.md) и [CLAUDE.md](../CLAUDE.md) (инструкции для Claude).
 
 ## Правила
 
